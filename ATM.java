@@ -1,5 +1,3 @@
-package main.java;
-
 public class ATM {
     public int countBanknotes (int sum) {
         int quantity = 0;
